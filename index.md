@@ -12,11 +12,8 @@ author: Aditya Narayanan
 
 
 
-# Articles
-
-
-## Why did sea ice take so long to start melting in the Southern Ocean?
-
+# The Arctic ice cap is rapidly melting, but what is happening to the Antarctic?
+**First published: 15th February, 2023**
 
 
 The polar regions are well known for their ice caps. In Antarctica, the land is covered in kilometers thick ice sheets, while the ocean surrounding the landmass freezes to form a large sea ice field extending to about 20&nbsp;million kilometers every winter.  Sea ice forms when the cold polar air freezes the surface seawater during winter. Sea ice is an important component of the Earth's climate system. Ice is highly reflective, hence sheltering the seawater below from solar radiation. Ice rejects brine as it forms and makes the surrounding waters salty, hence making the polar regions very weakly stratified. This allows for efficient mixing of deep warm waters with cooler surface waters and is an important part of the global thermohaline circulation. Sea ice is a critical component of the planet's climate and understanding how sea ice will respond to the changing climate is essential if we want to be able to accurately represent and forecast climate in our computer models.
