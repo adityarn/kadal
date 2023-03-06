@@ -7,7 +7,7 @@ author: Aditya Narayanan
 ---
 
 
-[My Home Page](https://adityarn.github.io/); [About](./about.html)
+[My Home Page](https://adityarn.github.io/); [About](./about.html); [Shared under CC BY 4.0](./about.html)
 
 
 
@@ -48,4 +48,4 @@ One of the leading theories suggests that the ocean played a major role in our s
 But then, what led to the reduction in sea ice since the year 2016? Once again, our answer seems to lie with the warm deep waters. Deep waters rise to the surface in giant ocean gyres. [Liping Zhang and their co-authors](https://doi.org/10.1038/s43247-022-00624-1) used computer simulations of the Earth's climate to find that there was a buildup of heat in the subsurface ocean, largely due to stronger winds. Winds in the Southern Ocean are responsible for driving a vertical pump [(Ekman pump)](https://en.wikipedia.org/wiki/Ekman_transport) that pulls warm waters from deep below. They do this by pushing surface waters apart horizontally and creating a drop in height of the surface of the sea. The spinup of the winds drove a stronger vertical pump which led to the buildup of heat below the surface layer of the ocean. Warmer waters are lighter, making the subsurface light enough to eventually break the stratification which allowed greater mixing of warm waters with surface waters. This process may be the reason why sea ice reduced since 2016 in the Southern Ocean.
 
 
-The question though is not yet settled! There are many changes occuring to the atmosphere, our climate, the cryosphere, the winds and the major gyre systems that we don't fully understand. These uncertainties are some of the largest uncertainties in climate model simulations that inform the IPCC reports. It is becoming more and more clear to people across the world that our climate is undergoing rapid change, and governments would like more fine-grained forecasts of our future climate. Settling these uncertainties in the polar regions would go a long way in addressing that need!
+The question though is not yet settled! There are many changes occuring to the atmosphere, our climate, the cryosphere, the winds and the major gyre systems that we don't fully understand. These uncertainties are some of the [largest uncertainties in climate model simulations that inform the IPCC reports](https://os.copernicus.org/articles/17/59/2021/). It is becoming more and more clear to people across the world that our climate is undergoing rapid change, and governments would like more fine-grained forecasts of our future climate. Settling these uncertainties in the polar regions would go a long way in addressing that need!
