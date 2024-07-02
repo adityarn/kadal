@@ -1,6 +1,7 @@
 #!/bin/bash
 
-pandoc --toc -s index.md -o index.html --css=style.css --citeproc
+ls -1r ./articles/*.md > includes.txt
+pandoc --toc -s index.md $(cat includes.txt) -o index.html --css=style.css --citeproc
 pandoc --toc -s about.md -o about.html --css=style.css --citeproc
 # /usr/bin/pandoc --toc -s SouthernOcean.md -o SouthernOcean.html --css=style.css --citeproc
 # /usr/bin/pandoc --toc -s SOCHIC_WP4.md -o SOCHIC_WP4.html --css=style.css --citeproc
